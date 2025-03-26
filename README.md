@@ -1,7 +1,7 @@
 # PLATFORMER GAME
 
 ## DESCRIPTION
-- This is my old project about 2d platformer which made following tutorial ![Learn How to Make a 2D Platformer in Unity 2022 - FULL GAMEDEV COURSE!](https://www.youtube.com/watch?v=oxiPWg8cdRM)(<a>).
+- This is my old project about 2d platformer which made following tutorial ![Learn How to Make a 2D Platformer in Unity 2022 - FULL GAMEDEV COURSE!](https://www.youtube.com/watch?v=oxiPWg8cdRM).
 - In game, Player can control the character to defeat all the enemies.
 
 ## CONTROL
